@@ -20,4 +20,4 @@ No projeto deste curso, chamado Robotrom 2000, nossa missão é salvar o planeta
 ### ❣ Site:
 https://robotron-2000-azure-two.vercel.app/
 
-
+<img alt="parabens-robo" height="200" width="370" src="https://github.com/EricaSantos-FullStack/robotron-2000/assets/71906862/1d7353f3-3247-4e60-868d-7bc36cc6e51c">
